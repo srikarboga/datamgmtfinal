@@ -1,6 +1,6 @@
 # Data Management for Data Science Final Project
 
-To run this project make sure to create a new virtual environment with a python version of 3.10.15 for consistent results
+To run this project make sure to create a new virtual environment with a python version of **3.10.15** for consistent results
 
 run the following command to install dependencies
 
