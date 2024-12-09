@@ -4,7 +4,9 @@ To run this project make sure to create a new virtual environment with a python 
 
 run the following command to install dependencies
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 # Dataset
 
